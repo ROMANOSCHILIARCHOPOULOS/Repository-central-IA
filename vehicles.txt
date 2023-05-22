@@ -1,8 +1,8 @@
 car,AHD1012,123,4,19122222,19121111,false,Valkswagen,35,2020,SUV,TRoc
-car,AHD1012,120,4,19122222,19121111,false,BMW,43,2020,SUV,M3
+car,AHD1012,120,4,12/10,22/4,true,BMW,43,2020,SUV,M3
 moto,AHD1012,118,4,19122222,19121111,false,BMW,40,2020,SUV,R 1250 rs
 car,AHD1012,121,2,19122222,19121111,false,Valkswagen,38,2020,sedan,Golf STI
 car,AHD1012,125,2,19122222,19121111,false,Valkswagen,34,2020,sedan,GOLF
-car,AHD1012,110,2,19122222,19121111,true,Citroen,20,2020,minicar,AMI
-car,AHD1012,122,2,12/11,22/4,true,porche,56,2020,sports car,911 Turbo S
-car,AHD1012,129,2,11/12,22/4,true,porche,100,2020,sports car,GT3 RS
+car,AHD1012,110,2,12/11,22/4,true,Citroen,20,2020,minicar,AMI
+car,AHD1012,122,2,11/12,22/4,true,porche,56,2020,sports car,911 Turbo S
+car,AHD1012,129,2,11/12,22/4,false,porche,100,2020,sports car,GT3 RS
