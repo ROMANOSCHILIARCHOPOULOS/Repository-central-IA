@@ -3,3 +3,4 @@ car,AHD1012,120,4,12/10,22/4,true,BMW,43,2020,SUV,M3,rchiliarchopoulos@athenscol
 car,AHD1012,122,2,11/12,22/4,true,porche,56,2020,sports car,911 Turbo S,rchiliarchopoulos@athenscollege.edu.gr
 car,AHD1012,129,2,1112/12,22/4,true,porche,100,2020,sports car,GT3 RS,rchiliarchopoulos@athenscollege.edu.gr
 car,AHD1012,125,2,12/6,23/4,true,Valkswagen,34,2020,sedan,GOLF,rchiliarchopoulos@athenscollege.edu.gr
+car,AHD1012,123,4,26/5,23/4,true,Valkswagen,35,2020,SUV,TRoc,pkleidonas@athenscollege.edu.gr
