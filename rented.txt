@@ -7,3 +7,4 @@ car,AHD1012,123,4,26/5,23/4,true,Valkswagen,35,2020,SUV,TRoc,pkleidonas@athensco
 moto,AHD1012,118,4,27/9,23/4,true,BMW,40,2020,SUV,R 1250 rs,pkleidonas@athenscollege.edu.gr
 car,AHD1012,121,2,4/6,23/4,true,Valkswagen,38,2020,sedan,Golf STI,rchiliarchopoulos@athenscollege.edu.grmoto,AHD1012,118,4,32/11,2/5,true,BMW,40,2020,SUV,R 1250 rs,rchiliarchopoulos@athenscollege.edu.gr
 car,AHD1012,125,2,6/12,2/5,true,Valkswagen,34,2020,sedan,GOLF,rchiliarchopoulos@athenscollege.edu.gr
+car,AHD1012,1267,2,6/12,2/5,true,Valkswagen,34,2020,sedan,GOLF,rchiliarchopoulos@athenscollege.edu.gr
