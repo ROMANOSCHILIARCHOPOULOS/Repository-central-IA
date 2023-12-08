@@ -13,3 +13,4 @@ car,AHD1012,122,2,12/12,14/8,true,porche,56,2020,sports car,911 Turbo S,rchiliar
 car,AHD1012,129,2,12/12,18/8,true,porche,100,2020,sports car,GT3 RS,rchiliarchopoulos@athenscollege.edu.gr
 car,AHD1012,121,2,12/12,18/8,true,Valkswagen,38,2020,sedan,Golf STI,rchiliarchopoulos@athenscollege.edu.gr
 ect,CJF3234,341,4,42/34,0/33,vtwg,rqtejg,322,4242,urqtvu ect,IV5 TU,tejknkctejqrqwnqu@cvjgpueqnngig.gfw.it
+ect,CJ3462,3264,6,32/34,32/34,vtwg,oclfc,52,4244,eqwrg,oz-7,tejknkctejqrqwnqu@cvjgpueqnngig.gfw.it
