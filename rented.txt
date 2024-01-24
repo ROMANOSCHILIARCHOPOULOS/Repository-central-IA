@@ -19,3 +19,4 @@ moto,10AH21,9830,2,02/02,2/2,true,iamaha,98,2024,sports bike,xt,romanoschiliarch
 car,AH1240,1042,4,04/04,4/4,true,majda,30,2022,coupe,mx-5,romanoschiliarchopoulos2028@u.northwestern.edu
 moto,10AH21,9830,2,02/02,2/2,true,iamaha,98,2024,sports bike,xt,romanoschiliarchopoulos2028@u.northwestern.edu
 oqvq,CJF3234,330,6,24/25,4/5,vtwg,DOY,62,4242,UWX,T 3472 tu,tqocpquejknkctejqrqwnqu4240@w.pqtvjyguvgtp.gfw
+ect,CJF3234,345,6,26/29,6/9,vtwg,Xcnmuycigp,57,4242,UWX,VTqe,tqocpquejknkctejqrqwnqu4240@w.pqtvjyguvgtp.gfw
