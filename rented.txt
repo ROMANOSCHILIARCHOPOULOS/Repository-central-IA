@@ -15,4 +15,5 @@ car,AHD1012,135,2,12/12,18/8,true,Valkswagen,38,2020,sedan,Golf STI,rchiliarchop
 car,AHD1012,110,2,21/09,21/9,true,Citroen,20,2020,minicar,AMI,romanoschiliarchopoulos2028@u.northwestern.edu
 moto,10AH21,9830,2,02/02,2/2,true,iamaha,98,2024,sports bike,xt,romanoschiliarchopoulos2028@u.northwestern.edu
 car,AH1240,1042,4,04/04,4/4,true,majda,30,2022,coupe,mx-5,romanoschiliarchopoulos2028@u.northwestern.edu
-moto,10AH21,9830,2,02/02,2/2,true,iamaha,98,2024,sports bike,xt,romanoschiliarchopoulos2028@u.northwestern.eduect,CJF3234,341,4,24/26,4/6,vtwg,rqtejg,322,4242,urqtvu ect,IV5 TU,tqocpquejknkctejqrqwnqu4240@w.pqtvjyguvgtp.gfw
+moto,10AH21,9830,2,02/02,2/2,true,iamaha,98,2024,sports bike,xt,romanoschiliarchopoulos2028@u.northwestern.edu
+ect,CJF3234,341,4,24/26,4/6,vtwg,rqtejg,322,4242,urqtvu ect,IV5 TU,tqocpquejknkctejqrqwnqu4240@w.pqtvjyguvgtp.gfw
