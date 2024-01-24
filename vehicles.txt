@@ -4,15 +4,15 @@ ect,CJF3234,342,6,34/32,44/6,hcnug,DOY,65,4242,UWX,O5
 oqvq,CJF3234,330,6,54/33,4/7,hcnug,DOY,62,4242,UWX,T 3472 tu
 ect,CJF3234,343,4,34/34,30/0,hcnug,Xcnmuycigp,50,4242,ugfcp,Iqnh UVK
 ect,CJF3234,347,4,8/34,4/7,hcnug,Xcnmuycigp,56,4242,ugfcp,IQNH
-ect,CJF3234,332,4,36/32,35/0,hcnug,Ekvtqgp,42,4242,okpkect,COK
+ect,CJF3234,332,4,43/21,43/1,vtwg,Ekvtqgp,42,4242,okpkect,COK
 ect,CJF3234,344,4,34/24,34/4,vtwg,rqtejg,78,4242,urqtvu ect,133 Vwtdq U
 ect,CJF3234,341,4,42/34,0/33,hcnug,rqtejg,322,4242,urqtvu ect,IV5 TU
 ect,CJF3234,342,6,34/32,44/6,hcnug,DOY,65,4242,UWX,O5
 oqvq,CJF3234,330,6,54/33,4/7,hcnug,DOY,62,4242,UWX,T 3472 tu
 ect,CJF3234,343,4,34/34,30/0,hcnug,Xcnmuycigp,50,4242,ugfcp,Iqnh UVK
 ect,CJF3234,347,4,8/34,4/7,hcnug,Xcnmuycigp,56,4242,ugfcp,IQNH
-ect,CJF3234,332,4,36/32,35/0,hcnug,Ekvtqgp,42,4242,okpkect,COK
+ect,CJF3234,332,4,43/21,43/1,vtwg,Ekvtqgp,42,4242,okpkect,COK
 ect,CJF3234,344,4,34/24,34/4,vtwg,rqtejg,78,4242,urqtvu ect,133 Vwtdq U
 ect,CJF3234,341,4,42/34,0/33,hcnug,rqtejg,322,4242,urqtvu ect,IV5 TU
 ect,CJ3462,3264,6,32/34,32/34,hcnug,oclfc,52,4244,eqwrg,oz-7
-oqvq,32CJ43,1052,4,20/20,20/20,hcnug,kcocjc,10,4246,urqtvu dkmg,zv
+oqvq,32CJ43,1052,4,24/24,4/4,vtwg,kcocjc,10,4246,urqtvu dkmg,zv
