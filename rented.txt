@@ -12,8 +12,6 @@ car,AHD1012,116,2,14/10,13/8,true,Citroen,20,2020,minicar,AMI,rchiliarchopoulos@
 car,AHD1012,198,2,12/12,14/8,true,porche,56,2020,sports car,911 Turbo S,rchiliarchopoulos@athenscollege.edu.gr
 car,AHD1012,133,2,12/12,18/8,true,porche,100,2020,sports car,GT3 RS,rchiliarchopoulos@athenscollege.edu.gr
 car,AHD1012,135,2,12/12,18/8,true,Valkswagen,38,2020,sedan,Golf STI,rchiliarchopoulos@athenscollege.edu.gr
-ect,CJF3234,353,4,42/34,0/33,vtwg,rqtejg,322,4242,urqtvu ect,IV5 TU,tejknkctejqrqwnqu@cvjgpueqnngig.gfw.it
-ect,CJ3462,345,6,32/34,32/34,vtwg,oclfc,52,4244,eqwrg,oz-7,tejknkctejqrqwnqu@cvjgpueqnngig.gfw.itect,CJF3234,344,4,34/24,34/4,vtwg,rqtejg,78,4242,urqtvu ect,133 Vwtdq U,tqocpquejknkctejqrqwnqu4240@w.pqtvjyguvgtp.gfw
 car,AHD1012,110,2,21/09,21/9,true,Citroen,20,2020,minicar,AMI,romanoschiliarchopoulos2028@u.northwestern.edu
 moto,10AH21,9830,2,02/02,2/2,true,iamaha,98,2024,sports bike,xt,romanoschiliarchopoulos2028@u.northwestern.edu
 car,AH1240,1042,4,04/04,4/4,true,majda,30,2022,coupe,mx-5,romanoschiliarchopoulos2028@u.northwestern.edu
