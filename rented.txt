@@ -20,3 +20,4 @@ ect,CJF3234,341,4,24/26,4/6,vtwg,rqtejg,322,4242,urqtvu ect,IV5 TU,tqocpquejknkc
 car,AHD1012,120,4,04/09,4/9,true,BMW,43,2020,SUV,M3,romanoschiliarchopoulos2028@u.northwestern.edu
 car,AHD1012,125,2,02/04,2/4,true,Valkswagen,34,2020,sedan,GOLF,romanoschiliarchopoulos2028@u.northwestern.edu
 car,AHD1012,121,2,20/02,20/2,true,Valkswagen,38,2020,sedan,Golf STI,hili900code@gmail.com
+moto,AHD1012,118,4,20/02,20/2,true,BMW,40,2020,SUV,R 1250 rs,school.romanos.hili@gmail.com
